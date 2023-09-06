@@ -15,7 +15,7 @@ public class ArrayToArraylist {
 		System.out.println(numList);
 		
 		
-//2 ) using Collections.addAll() method 
+//2) using Collections.addAll() method 
 		List<Integer> numericList = new ArrayList<>();
 		Collections.addAll(numericList, num);
       System.out.println(numericList);
@@ -37,9 +37,6 @@ public class ArrayToArraylist {
       {
     	  System.out.println(h);
       }
-
-
-
 
 
 	}
